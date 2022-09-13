@@ -201,6 +201,7 @@ p {
     height: auto;
     width: auto;
     margin: 0;
+    margin-bottom: 1.5%;
   }
 
   h2 {
@@ -208,18 +209,21 @@ p {
     height: auto;
     width: auto;
     margin: 0;
+    margin-bottom: 1.5%;
   }
   p {
     height: auto;
     width: 85%;
     font-size: 1em;
     margin: 0;
+    margin-bottom: 3%;
+    text-align: center;
   }
 
   #section-button {
     font-size: 15px;
-    line-height: 18px;
-    height: 35px;
+    line-height: 25px;
     width: 120px;
+    height: 45px;
   }
 }
